@@ -1,6 +1,3 @@
-
-
-```markdown
 # 🌐 Mike Ciuri — Personal Portfolio Website
 
 This is the official portfolio website for **Mike Ciuri**, showcasing his projects, technical skills, education, and contact information.  
@@ -17,14 +14,14 @@ It includes multiple responsive sections that highlight professional experience,
 - Clean, modern dark-themed design with **electric blue** accent color  
 - Fully **responsive** layout for desktop, tablet, and mobile  
 - Separate pages for:
-  - Home
-  - About
-  - Skills
-  - Projects
-  - Contact
-- Integrated **email and LinkedIn contact links**
-- Resume download option
-- Lightweight and fast — built with static HTML and CSS
+  - Home  
+  - About  
+  - Skills  
+  - Projects  
+  - Contact  
+- Integrated **email and LinkedIn contact links**  
+- Resume download option  
+- Lightweight and fast — built with static HTML and CSS  
 
 ---
 
@@ -42,32 +39,31 @@ It includes multiple responsive sections that highlight professional experience,
 
 ## 📁 Project Structure
 
-```
-
 portfolio-assessment-mikeciuri/
 │
-├── index.html              # Homepage
-├── about.html              # About section
-├── skills.html             # Skills page
-├── projects.html           # Projects showcase
-├── contact.html            # Contact page
+├── index.html # Homepage
+├── about.html # About section
+├── skills.html # Skills page
+├── projects.html # Projects showcase
+├── contact.html # Contact page
 │
 ├── css/
-│   └── style.css           # Main stylesheet
+│ └── style.css # Main stylesheet
 │
 ├── js/
-│   └── script.js           # Optional custom JS
+│ └── script.js # Optional custom JS
 │
 ├── images/
-│   ├── profile.jpg
-│   └── thrivingfarmers.jpg
+│ ├── profile.jpg
+│ └── thrivingfarmers.jpg
 │
 ├── resume/
-│   └── Mike_Ciuri_Resume.pdf
+│ └── Mike_Ciuri_Resume.pdf
 │
-└── README.md               # Project documentation
+└── README.md # Project documentation
 
-````
+yaml
+Copy code
 
 ---
 
@@ -76,48 +72,25 @@ portfolio-assessment-mikeciuri/
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/WECK-web/portfolio-assessment-mikeciuri.git
-````
-
-### 2️⃣ Navigate into the project folder
-
-```bash
+2️⃣ Navigate into the project folder
+bash
+Copy code
 cd portfolio-assessment-mikeciuri
-```
+3️⃣ Open in a browser
+You can open index.html directly by double-clicking it, or use VS Code Live Server:
 
-### 3️⃣ Open in a browser
-
-You can open `index.html` directly by double-clicking it, or use VS Code Live Server:
-
-```bash
+bash
+Copy code
 code .
-```
+Then right-click index.html → “Open with Live Server”
 
-Then right-click `index.html` → **“Open with Live Server”**
+📸 Preview
+🔹 Home Page: Introduction and hero section
+🔹 Projects Page: Displays featured works including Akiba Pamoja App, Thriving Farmers, and Cryptocurrency Dashboard
+🔹 Contact Page: Email and social media links for easy communication
 
----
-
-## 📸 Preview
-
-> 🔹 **Home Page:** Introduction and hero section
-> 🔹 **Projects Page:** Displays featured works including *Akiba Pamoja App*, *Thriving Farmers*, and *Cryptocurrency Dashboard*
-> 🔹 **Contact Page:** Email and social media links for easy communication
-
----
-
-## 👨‍💻 Author
-
-**Mike Ciuri**
-📧 [ciurimike@gmail.com](mailto:ciurimike@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/mike-ciuri/)
-💻 [GitHub](https://github.com/WECK-web)
-
----
-
-> *“Crafted with passion and precision — where creativity meets clean code.”*
-
-```
-
----
-
-
-```
+👨‍💻 Author
+Mike Ciuri
+📧 ciurimike@gmail.com
+🔗 LinkedIn
+💻 GitHub
